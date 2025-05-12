@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[点击查看我们的照片](./another-page.html).
+[这里有一些很好的照片](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -94,6 +93,8 @@ end
 
 ### Small image
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
